@@ -1,7 +1,5 @@
 # ALG---2026.01---LISTA-2
 
-## Exercicios
-
 Lista 2 de Exercício de Algoritmos
 (utilizar linguagem C)
 1. Fazer um programa para receber um número inteiro de segundos do usuário e
