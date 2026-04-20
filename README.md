@@ -1,6 +1,6 @@
 # ALG---2026.01---LISTA-2
 
-##Exercicios
+## Exercicios
 
 Lista 2 de Exercício de Algoritmos
 (utilizar linguagem C)
