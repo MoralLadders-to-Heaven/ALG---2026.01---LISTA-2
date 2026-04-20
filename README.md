@@ -1,7 +1,5 @@
 # ALG---2026.01---LISTA-2
-Lista de Exercicio 2 do professor Rafael - Programação em C
 
-## Exercicios
 1. Fazer um programa para receber um número inteiro de segundos do usuário e
 imprimir a quantidade correspondente em horas, minutos e segundos.
 
